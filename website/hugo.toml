@@ -3,13 +3,3 @@ languageCode = 'en-us'
 title = 'Shaurya Singh'
 
 theme = "hugo-PaperMod"
-
-[params.homeInfoParams]
-Title = "Hi there wave"
-Content = "Can be Info, links, about..."
-
-[params.socialIcons]
-name = "<platform>"
-url = "<link>"
-name2 = "<platform 2>"
-url2 = "<link2>"
