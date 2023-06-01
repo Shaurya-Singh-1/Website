@@ -1,0 +1,4 @@
+[submodule "website/public"]
+	path = website/public
+	url = https://github.com/Shaurya-Singh-1/Shaurya-Singh-1.github.io.git
+	branch = main
